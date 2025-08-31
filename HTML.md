@@ -36,3 +36,18 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <iframe src="link_aqui"></iframe>
     Usada para exibir conteúdo externo de uma página web dentro de outra página web.  
 ```
+
+### LISTAS
+```html
+<ol> <li>Conteudo</li> <li>Conteudo 2</li>...</ol>  
+    Criação de lista ordenada, a ordem é necessária.  
+<ol reversed> ... <ol>  
+    Lista ordenada de forma invertida.  
+<ul> <li>Conteudo</li> <li>Conteudo 2</li>...</ul>  
+    Criação de lista não ordenada, onde a ordem dos itens não possui relevância.
+<dl> <dt>Titulo</dt> <dd>Conteudo</dd>...</dl>  
+    Criação de lista de definição, onde tem um ou mais termos e sua respectiva definição.  
+    
+
+```
+
