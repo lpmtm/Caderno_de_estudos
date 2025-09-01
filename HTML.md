@@ -47,7 +47,5 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
     Criação de lista não ordenada, onde a ordem dos itens não possui relevância.
 <dl> <dt>Titulo</dt> <dd>Conteudo</dd>...</dl>  
     Criação de lista de definição, onde tem um ou mais termos e sua respectiva definição.  
-    
-
 ```
 
