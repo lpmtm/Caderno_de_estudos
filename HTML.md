@@ -49,3 +49,22 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
     Criação de lista de definição, onde tem um ou mais termos e sua respectiva definição.  
 ```
 
+### TABELAS
+```html
+<table><tr>...</th></table>  
+    Cria a tabela.  
+<tr>Conteudo linha</tr> 
+    Cria uma linha na tabela.      
+<td>Conteudo coluna</td>  
+    Cria uma coluna de conteudo.    
+<th>Conteudo coluna cabeçalho</th>  
+    Cria uma coluna do cabeçalho.    
+<thead>...</thead>  
+    Delimita o conteudo do cabeçalho.  
+<tbody>...</tbody>  
+    Delimita o corpo da tabela.
+<tfoot>...</tfoot>
+    Delimita o conteudo de rodapé da tabela.
+<caption>Titulo tabela</caption>
+    Define o titulo da tabela.
+```
