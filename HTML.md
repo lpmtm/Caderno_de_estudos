@@ -54,13 +54,13 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <table><tr>...</th></table>  
     Cria a tabela.  
 <tr>Conteudo linha</tr> 
-    Cria uma linha na tabela.      
-<td>Conteudo coluna</td>  
-    Cria uma coluna de conteudo.    
+    Cria uma linha na tabela.
 <th>Conteudo coluna cabeçalho</th>  
-    Cria uma coluna do cabeçalho.    
+    Cria uma coluna do cabeçalho.            
 <thead>...</thead>  
-    Delimita o conteudo do cabeçalho.  
+    Delimita o conteudo do cabeçalho.
+<td>Conteudo coluna</td>  
+    Cria uma coluna de conteudo.  
 <tbody>...</tbody>  
     Delimita o corpo da tabela.
 <tfoot>...</tfoot>
