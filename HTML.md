@@ -19,7 +19,7 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <meta name = "viewport" content = "widht-device-widht, initial-scale=1.0">
     Garante que o conteúdo se ajuste a largura da telam independente do aparelho.  
  ```
-### TAGS BODY  
+### TAGS BÁSICAS BODY  
 ```html
 <h1></h1> ... <h6></h6>
     Usada para criar títulos, sendo o h1 o principal e os demais subtítulos.    
