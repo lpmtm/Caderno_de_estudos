@@ -68,3 +68,27 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <caption>Titulo tabela</caption>
     Define o titulo da tabela.
 ```
+### SEMANTICIDADE HTML
+```html
+<header>...</header>
+    Utilizado para representar o cabeçalho do documento.
+<section>...</section>
+    Representa uma seção dentro de um documento.
+<article>...</article>
+    Usado para declarar um conteúdo que não depende de outro para fazer sentido.
+<nav>...</nav>
+    Usado para agrupar links de navegação, com isso, cria <ul>, <li> e <a>.
+<aside>...</aside>
+    Usado oara criar conteúdo de apoio ao conteúdo principal.
+<main>...</main>
+    Especificação do conteúdo principal, recebe meior relevância.
+<figure>...</figure>
+    Uso específico para a inserção de figura.
+<figcaption>...<figcaption>
+    Usado para incluir descrição.
+<footer>...</footer>
+    Representa o rodapé do documento.
+
+
+
+'''
