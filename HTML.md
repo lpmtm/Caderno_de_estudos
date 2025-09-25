@@ -88,7 +88,16 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
     Usado para incluir descrição.
 <footer>...</footer>
     Representa o rodapé do documento.
-
+<a>...</a>
+    Principal função é descrever um link.
+<em>...</em>
+    Usado para enfatizar um trecho de texto ou palavra -italico.
+<strong>...</strong>
+    Usado para destacar um trecho de texto ou palavra -negrito.
+<q>...</q>-<cite>...<cite>
+    Usados para declarar citação e a fonte.
+<time>...</time>
+    Usado para representar datas.
 
 
 ```
