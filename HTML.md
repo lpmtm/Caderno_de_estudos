@@ -68,6 +68,17 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <caption>Titulo tabela</caption>
     Define o titulo da tabela.
 ```
+### Formulários
+```html
+<form action="link"></form>
+    Cria um forms, a tag "action" define a URL para onde os dados serão enviados.
+<textarea nome="sugestap"></textarea>
+    Cria a caixa de texto.
+<button type="submit>...</button>
+    Cria o botão para envio.
+
+```
+
 ### SEMANTICIDADE HTML
 ```html
 <header>...</header>
