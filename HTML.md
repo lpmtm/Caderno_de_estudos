@@ -99,7 +99,8 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <input type="checkbox" name="termos" value ="aceito">
     Cria caixas de seleção, o "name" é onde o back-end recebe os dados e o value é o que será enviado ao back-end.
 <input type="radio" name="resposta" id= "escoha-sim"value ="sim">
-    Radio serve para deixar marcar só uma opção, "name" por onde o back-end recebe os dados, "value" é o valor enviado ao back.
+    Radio serve para deixar marcar só uma opção, "name" por onde o back-end recebe os dados,
+    "value" é o valor enviado ao back.
 <select name="cores"><option value="..."></option>...</select>
     Cria uma lista para escolha.
 
