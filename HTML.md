@@ -72,10 +72,37 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 ```html
 <form action="link"></form>
     Cria um forms, a tag "action" define a URL para onde os dados serão enviados.
-<textarea nome="sugestap"></textarea>
+<textarea nome="sugestao"></textarea>
     Cria a caixa de texto.
 <button type="submit>...</button>
     Cria o botão para envio.
+<input type="text" name="exemplo">
+    Caixa de texto para textos curtos.
+<input type="password" name="senha">
+    Caixa de texto para senha, dados digitados ficam ocultos.
+<input type="date" name="nascimento">
+    Caixa de texto para datas.
+<input type="number" name="idade">
+    Caixa de texto exclusiva para números.
+<input type="email" name="email">
+    Verifica se o email é válido.
+<input type="tel" name="telefone">
+    Digitação de telefones.
+<input placeholder="exemplo" type="..." name="...">
+    O valor do placeholder será exibido dentro do input, não compatível com datas.
+<input placeholder="..." required type="..." name="...">
+    Com o required o campo se torna obrigatório.
+<input type="..." name="..." minlength="4" maxlength="6">
+    Determinar a quantidade mínima e máxima de caracteres.
+<input type="..." name="..." min="18" max="21">
+    Definir o menor e maior valor permitido.
+<input type="checkbox" name="termos" value ="aceito">
+    Cria caixas de seleção, o "name" é onde o back-end recebe os dados e o value é o que será enviado ao back-end.
+<input type="radio" name="resposta" id= "escoha-sim"value ="sim">
+    Radio serve para deixar marcar só uma opção, "name" por onde o back-end recebe os dados, "value" é o valor enviado ao back.
+<select name="cores"><option value="..."></option>...</select>
+    Cria uma lista para escolha.
+
 
 ```
 
