@@ -72,7 +72,7 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 ```html
 <form action="link"></form>
     Cria um forms, a tag "action" define a URL para onde os dados serão enviados.
-<textarea nome="sugestao"></textarea>
+<textarea name="sugestao"></textarea>
     Cria a caixa de texto.
 <button type="submit>...</button>
     Cria o botão para envio.
