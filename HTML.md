@@ -68,7 +68,7 @@ Este artigo tem o propósito de auxiliar no aprendizado e fixação de atributos
 <caption>Titulo tabela</caption>
     Define o titulo da tabela.
 ```
-### Formulários
+### FORMULÁRIOS
 ```html
 <form action="link"></form>
     Cria um forms, a tag "action" define a URL para onde os dados serão enviados.
