@@ -1,4 +1,5 @@
  // Shift + Alt + A para comentar linhas
+CONCEITOS BASES DE JS
 
 var aluno = "carol";        //string
 
